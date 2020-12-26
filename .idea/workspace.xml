@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f130bc0f-9837-426d-9e7a-8d699706b812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/www/form1.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mCIus51Lf5OIdecak5NQERQIQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f130bc0f-9837-426d-9e7a-8d699706b812" name="Default Changelist" comment="" />
+      <created>1608991375121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608991375121</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit form">
+      <created>1608991804941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608991804941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit form" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit form" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608992048146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608992048146" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1608991793919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608991793919" />
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1608991847506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608991847506" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1608991825738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608991825738" />
+  </component>
+</project>
